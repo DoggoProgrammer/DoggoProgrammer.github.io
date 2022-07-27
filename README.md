@@ -8,4 +8,4 @@ i decided to open a Test Version 0.1.
 
 | Version | Created | Notes | Link |
 | --- | --- | --- | --- |
-| 0.1 | DE: 07.27.2022 USA: 27/07/2022 | Test Version Of DevHub | [Click Here](https://www.github.com/DoggoProgrammer/DoggoProgrammer.github.io/tree/main/devhub/0.1)
+| 0.1 | DE: 07.27.2022 USA: 27/07/2022 | Test Version Of DevHub | [Click Here](https://github.com/DoggoProgrammer/DoggoProgrammer.github.io/tree/main/devhub/0.1)
